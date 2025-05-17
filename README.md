@@ -29,4 +29,11 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 ## Dashboard Interaction
 <a href="https://github.com/yug0537/Coffee_Shop_Sales_Analysis-Excel-/blob/main/Coffe_Shop_%20Sales_File.xlsx">Dashboard<a/>
 
+## Data Preparation & Processing Steps
+1. Data Cleaning with Power Query
+   - Removed duplicates and null values
+   - Converted date and time columns into proper formats
+   - Split time to extract hour for time-based analysis
+
+
 
