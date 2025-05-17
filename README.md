@@ -53,6 +53,18 @@ The goal of this project was to analyze and visualize coffee shop sales performa
    - Avg. Orders / Person: 1.44
 2. Peak Hours
    - Highest quantity ordered between 8 AM and 9 AM, aligning with morning rush hour.
+3. Top Product
+   - Barista Espresso generated the highest sales (~$91K)
+4. Popular Categories
+   - Coffee leads with 39% of total sales.
+   - Followed by Coffee Beans (28%) and Drinking Chocolate (10%)
+5. Store Locations
+   - All stores (Astoria, Hell’s Kitchen, Lower Manhattan) perform similarly, with Hell’s Kitchen slightly ahead in total sale
+6. Weekday Trends
+   - Friday sees the highest number of orders (~21,700), followed by Thursday and Monday.
+   - Saturday has the lowest, indicating less weekday traffic.
+7. Order Size Analysis
+   - Orders are almost equally split between Regular (31%), Large (30%), and Not Defined (30%)
 
 
 
