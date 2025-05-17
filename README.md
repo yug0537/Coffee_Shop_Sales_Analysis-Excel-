@@ -51,6 +51,8 @@ The goal of this project was to analyze and visualize coffee shop sales performa
    - Total Footfall: 149,116
    - Avg. Bill / Person: $4.69
    - Avg. Orders / Person: 1.44
+2. Peak Hours
+   - Highest quantity ordered between 8 AM and 9 AM, aligning with morning rush hour.
 
 
 
