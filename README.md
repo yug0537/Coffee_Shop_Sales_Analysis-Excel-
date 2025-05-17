@@ -9,12 +9,12 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 
 ## Tools & Technologies Used
 - Microsoft Excel
-    -	Power Query (for data cleaning and transformation)
-	  - Power Pivot (for data modeling and creating relationships)
-	  - DAX (for calculated columns and measures)
-	  - Pivot Tables & Charts
-	  - Slicers
-	  - Custom Visualizations for Dashboard
+    - Power Query (for data cleaning and transformation)
+    - Power Pivot (for data modeling and creating relationships)
+    - DAX (for calculated columns and measures)
+    - Pivot Tables & Charts
+    - Slicers
+    - Custom Visualizations for Dashboard
 
 ## Key Performance Indicators(kPIs)
 
