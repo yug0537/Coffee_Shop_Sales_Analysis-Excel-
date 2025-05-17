@@ -66,6 +66,13 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 7. Order Size Analysis
    - Orders are almost equally split between Regular (31%), Large (30%), and Not Defined (30%)
 
+## Conclusion & Recommendations
+- Morning Promotions: Boost sales further during morning hours (7–9 AM) through targeted offers.
+- Product Focus: Continue promoting Barista Espresso and high-margin items like Coffee Beans.
+- Stock Optimization: Ensure key products are always in stock across high-performing locations.
+- Customer Engagement: Consider loyalty programs to increase average orders per person.
+- Weekend Strategy: Run special promotions or events on weekends to drive more traffic.
+
 
 
 
