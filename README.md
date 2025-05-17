@@ -46,11 +46,11 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 <img width="1394" alt="Screenshot 2025-05-17 at 16 55 33" src="https://github.com/user-attachments/assets/4c5854f3-3aad-4b1b-86d3-64c0ac24ea8e" />
 
 ## Key Insights
-1.	Sales Performance
-    - Total Sales: $698,812.33
-	- Total Footfall: 149,116
-	- Avg. Bill / Person: $4.69
-	- Avg. Orders / Person: 1.44
+1. Sales Performance
+   - Total Sales: $698,812.33
+   - Total Footfall: 149,116
+   - Avg. Bill / Person: $4.69
+   - Avg. Orders / Person: 1.44
 
 
 
