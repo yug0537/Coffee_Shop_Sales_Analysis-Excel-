@@ -41,6 +41,17 @@ The goal of this project was to analyze and visualize coffee shop sales performa
    - Total Footfall = DISTINCTCOUNT(Transaction[Transaction ID])
    - Avg Bill Per Person = Sum(Transactions[Total_Bill])/Count(Transactions[Transaction_id])
    - Avg Order Per Person = Sum(Transactions[Transaction_qty])/distinctcount(transactions[transactions_id])
+  
+## Dashboard View
+<img width="1394" alt="Screenshot 2025-05-17 at 16 55 33" src="https://github.com/user-attachments/assets/4c5854f3-3aad-4b1b-86d3-64c0ac24ea8e" />
+
+## Key Insights
+1.	Sales Performance
+    - Total Sales: $698,812.33
+	- Total Footfall: 149,116
+	- Avg. Bill / Person: $4.69
+	- Avg. Orders / Person: 1.44
+
 
 
 
