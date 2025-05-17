@@ -27,5 +27,6 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 - Size Distribution of Orders : Most Ordered Size: Regular (31%) and Large (30%)
 
 ## Dashboard Interaction
+<a href="https://github.com/yug0537/Coffee_Shop_Sales_Analysis-Excel-/blob/main/Coffe_Shop_%20Sales_File.xlsx">Dashboard<a/>
 
 
