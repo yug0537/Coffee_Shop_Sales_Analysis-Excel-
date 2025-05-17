@@ -19,8 +19,8 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 ## Key Performance Indicators(kPIs)
 - Total Sales : $698,812.33
 - Total Footfall : 149,116
-- Average Bill per Person : 4.69 : Formula : DAX :  Avg Bill / Person = Total Sales / Total Footfall
-- Average Orders per Person :  1.44 : DAX : Avg Orders / Person = Total Orders / Total Footfall
+- Average Bill per Person : 4.69 
+- Average Orders per Person :  1.44
 - Sales by Category (%) : Top Category: Coffee – 39% of total sales.
 - Store Location Performance : Top Store by Sales: Hell’s Kitchen – $236,511.17 :Top Store by Footfall: Hell’s Kitchen – 50,735
 - Daily Order Distribution : Highest Orders Day: Friday – 21,701 orders : Lowest Orders Day: Saturday – 20,510 orders
@@ -34,6 +34,13 @@ The goal of this project was to analyze and visualize coffee shop sales performa
    - Removed duplicates and null values
    - Converted date and time columns into proper formats
    - Split time to extract hour for time-based analysis
+2. Data Modeling in Power Pivot
+   - Created relationships between table Columns and Written some DAX queries including Some Formatting
+3. DAX Calculations Used
+   - Total Sales = SUM([Total_Bill])
+   - Total Footfall = DISTINCTCOUNT(Transaction[Transaction ID])
+   - Avg Bill Per Person = Sum(Transactions[Total_Bill])/Count(Transactions[Transaction_id])
+   - Avg Order Per Person = Sum(Transactions[Transaction_qty])/distinctcount(transactions[transactions_id])
 
 
 
