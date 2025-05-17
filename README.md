@@ -6,3 +6,6 @@ The goal of this project was to analyze and visualize coffee shop sales performa
 
 ## Dataset Used
 <a href="https://github.com/yug0537/Coffee_Shop_Sales_Analysis-Excel-/blob/main/Coffe_Shop_Sales-Raw.xlsx">Raw Data<a/>
+
+## Key Performance Indicators(kPIs)
+
